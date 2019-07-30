@@ -1,5 +1,5 @@
-let docA = "the quick brown fox jumps over the lazy dog and"
-let docB = "never jump over the lazy dog quickly"
+let docA = "Tôi yêu em ấy"
+let docB = "Tôi thương em ấy"
 
 let bowA = docA.split(" ")
 let word_dict = docA.split(" ")
